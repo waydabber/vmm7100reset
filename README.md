@@ -10,5 +10,5 @@ This is a swift rewrite based on https://github.com/djrobx/USBResetter for [Bett
 
 ### Usage:
 
-1. Enter: `./vmm7100`
+1. Enter: `./vmm7100reset`
 2. After resetting the adapter(s), there must be some event to get macOS to notice the adapters and wake the screens up. So resetting the adapter, THEN powering up the monitors usually does the trick (note: BetterDisplay does instruct the displays to reconnect but that is not part of this code).
