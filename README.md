@@ -6,7 +6,7 @@ This is a swift rewrite based on https://github.com/djrobx/USBResetter for [Bett
 
 ### Installation:
 
-Enter: `swiftc vmm7100reset.swift`
+- Enter: `swiftc vmm7100reset.swift`
 
 ### Usage:
 
