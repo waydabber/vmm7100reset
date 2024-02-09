@@ -1,6 +1,6 @@
 # vmm7100reset
 
-This small swift command line app resets the USB-C to HDMI dongle. It is the result of analyzing the messages sent by VMMHIDTool under windows (by @djrobx).
+This small swift command line app resets the USB-C to HDMI dongle. It is the result of analyzing the messages sent by VMMHIDTool under windows (by [@djrobx](https://github.com/djrobx)).
 
 This is a swift rewrite based on https://github.com/djrobx/USBResetter for [BetterDisplay](https://betterdisplay.pro).
 
